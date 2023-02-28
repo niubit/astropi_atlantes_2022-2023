@@ -31,6 +31,7 @@ exceptiongroup==1.0.4
 executing==1.2.0
 exif==1.4.0
 fastjsonschema==2.16.2
+ffpyplayer==4.4.0
 Fiona==1.8.22
 fonttools==4.38.0
 fqdn==1.5.1
