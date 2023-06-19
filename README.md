@@ -1,4 +1,4 @@
-![Team Atlantes logo](images/atlantes_v2.png)
+![Team Atlantes logo](images/2023_atlantes_badge.png)
 
 # AstroPi: Mission Space Lab. Team Atlantes 2022-2023
 
