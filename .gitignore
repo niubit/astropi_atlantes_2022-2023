@@ -1,0 +1,6 @@
+notebooks/.ipynb_checkpoints/
+notebooks/atlantes/
+__pycache__
+images/Thumbs.db
+notebooks/images/Thumbs.db
+notebooks/atlantes_files_for_colab.zip
