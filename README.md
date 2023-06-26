@@ -4,7 +4,7 @@
 
 In this repository can be found the reports and Jupyter notebooks used during the project.
 
-The source data produced by AstroPi IR in ISS, and several files needed by notebooks can be found here:
+The source data produced by AstroPi VIS in ISS, and several files needed by notebooks can be found here:
 [https://niubit.net/media/uploads/images/atlantes_2022-2023/atlantes_files_for_colab.zip](https://niubit.net/media/uploads/images/atlantes_2022-2023/atlantes_files_for_colab.zip)
 
 The main Jupyter notebook where the whole project is developed, in addition to this repository (`notebooks` directory), can be found in this link to be executed in Google Colab:
